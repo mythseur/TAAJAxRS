@@ -79,6 +79,9 @@ The goal is to design a clean CRUD API fo a business layer that allows to intera
 
 Maxime provides a complete example with an integration with JPA. https://github.com/maxleiko/taa-jpa if require. 
 
+This Fork implements the Twitter API
+You need the create and set up the twitter4j.properties file like describe int this http://twitter4j.org/en/configuration.html.
+
 
 # Task 2. 
 In following this guide. Integrate swagger with your API

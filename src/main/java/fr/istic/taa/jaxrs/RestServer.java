@@ -17,7 +17,7 @@ public class RestServer {
 
         UndertowJaxrsServer ut = new UndertowJaxrsServer();
 
-        TestApplication ta = new TestApplication();
+        TwitterApplication ta = new TwitterApplication();
 
         ut.deploy(ta);
 
